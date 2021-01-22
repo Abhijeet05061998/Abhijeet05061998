@@ -1,8 +1,9 @@
 Hi there 👋, This is ABHIJEET KUMAR 🤓
 
-**Abhijeet05061998/Abhijeet05061998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final Year Student 👨‍💻 || Full Stack  Developer 🌍 || Freelancer 🤝|| Competitive Programmer ✪ || Open Source Freak ©️ || BIRLA INSTITUTE OF TECHNOLOGY, MESRA 👨‍🎓
 
-Here are some ideas to get you started:
+
+Overview About Me:-
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
