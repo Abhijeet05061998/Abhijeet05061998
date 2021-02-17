@@ -1,3 +1,5 @@
+img width=1200 height=360 src="https://github.com/divyanshukumar10/divyanshukumar10/blob/main/svg/darkmode.png"/>
+
 Hi there 👋, This is ABHIJEET KUMAR 🤓
 
 Final Year Student 👨‍💻 || Full Stack  Developer 🌍 || Freelancer 🤝|| Competitive Programmer ✪ || Open Source Freak ©️ || BIRLA INSTITUTE OF TECHNOLOGY, MESRA 👨‍🎓
