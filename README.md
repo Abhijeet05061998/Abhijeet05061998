@@ -1,4 +1,4 @@
-img width=1200 height=360 src="https://github.com/divyanshukumar10/divyanshukumar10/blob/main/svg/darkmode.png"/>
+<img width=1200 height=360 src="https://github.com/divyanshukumar10/divyanshukumar10/blob/main/svg/darkmode.png"/>
 
 Hi there 👋, This is ABHIJEET KUMAR 🤓
 
