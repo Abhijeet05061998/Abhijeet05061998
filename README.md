@@ -1,3 +1,18 @@
+<table>
+    <tr>
+        <td>
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhijeet05061998&theme=calm" alt="Abhijeet05061998" align="center"/>
+        </td>
+        <td rowspan=2>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijeet05061998&theme=calm" align="center" alt="Abhijeet05061998" align="center"/></td>
+    </tr>
+    <tr>
+        <td><img src="https://github-readme-stats.vercel.app/api?username=Abhijeet05061998&show_icons=true&locale=en&count_private=true&theme=calm&show_icons=true" alt="Abhijeet05061998"/></td>
+    </tr>
+</table>
+
+
+
 <img width=1200 height=360 src="https://github.com/divyanshukumar10/divyanshukumar10/blob/main/svg/darkmode.png"/>
 
 Hi there 👋, This is ABHIJEET KUMAR 🤓
