@@ -25,7 +25,7 @@ Overview About Me:-
 to solve real-life problems.🤓
 
 - 🔭 I’m currently working on full Stack Devlopment
-- 🌱 I’m currently learning React js | AWS | Node js |Mongo DB💻
+- 🌱 I’m currently learning React js | AWS | Node js |Mongo DB|React Native💻
 - 👯 I’m looking to collaborate with people who are intrested in Front-end Development using the framework like React
 - 🤔 I’m looking for job opportunity as Front-end Developer
 - 💬 Ask me about Web Development, Competitive Coding, Operating System, DBMS, Computer Networks
